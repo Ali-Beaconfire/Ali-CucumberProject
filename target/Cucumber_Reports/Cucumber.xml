@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="13.391" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Application form" name="petpartners application" time="12.728">
+<system-out><![CDATA[
+Given I navigate to petpartners home page...................................passed
+And I click get quote button................................................passed
+And I click "Dog" button....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
